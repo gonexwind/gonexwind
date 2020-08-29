@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello Friends ! 👋
 
-<!--
-**gonexwind/gonexwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <br>
+  <samp>
+    Hello, I'm Fikky! :wink: from Indonesia.
+    Just a just a poor boy who's love tech.<br>
+    :school:  at University of Muria Kudus <br>
+    :sparkles: Favorite Tech: Flutter <br>
+    :notebook: I’m currently learning Mobile Dev & Web Dev <br>
+    :email:	fikkyardianto@gmail.com <br>
+    :video_game: Pokémon TCG Online | PES | Dragon Ball <br>
+    :musical_note: All <br>
+  </samp>
+  <a href="https://www.linkedin.com/in/fikkyardianto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/fikkyardianto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><br>
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=gonexwind&show_icons=true)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>, Python<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>, & React<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>.  -->
