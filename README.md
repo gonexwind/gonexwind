@@ -8,10 +8,9 @@
     Just a just a poor boy who's love tech.<br>
     :school:  at University of Muria Kudus <br>
     :sparkles: Favorite Tech: Flutter <br>
-    :notebook: I’m currently learning Mobile Dev & Web Dev <br>
+    :notebook: I’m currently learning Mobile & Web Dev <br>
     :email:	fikkyardianto@gmail.com <br>
-    :video_game: Pokémon TCG Online | PES | Dragon Ball <br>
-    :musical_note: All <br>
+    📺 Kamen Rider <br>
   </samp>
   <a href="https://www.linkedin.com/in/fikkyardianto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/fikkyardianto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><br>
