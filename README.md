@@ -6,7 +6,6 @@
   <samp>
     Hello, I'm Fikky! :wink: from Indonesia.
     Just a just a poor boy who's love tech.<br>
-    :school:  DSC at University of Muria Kudus <br>
     :sparkles: Favorite Tech: Flutter <br>
     :notebook: I’m currently learning Mobile & Web Dev <br>
     :email:	fikkyardianto@gmail.com <br>
@@ -32,5 +31,5 @@
 [youtube]: https://www.youtube.com/channel/UCKv1DvnWiOXl1GtCFEZKr1Q
 [linkedin]: https://www.linkedin.com/in/fikkyardianto/
 [instagram]: https://www.instagram.com/fikkyardianto/
-[blogger]: https://fikkyardianto.blogspot.com/@hamza.6.shakeel
+[blogger]: https://fikkyardianto.blogspot.com/
 [facebook]: https://www.facebook.com/fikky.ardi
