@@ -4,8 +4,7 @@
 <p>
   <br>
   <samp>
-    Hello, I'm Fikky! :wink: from Indonesia.
-    Just a just a poor boy who's love tech.<br>
+    Hello, I'm Fikky! :wink: from Indonesia.<br>
     :sparkles: Favorite Tech: Flutter <br>
     :notebook: I’m currently learning Mobile & Web Dev <br>
     :email:	fikkyardianto@gmail.com <br>
