@@ -13,10 +13,9 @@
   <a href="https://www.linkedin.com/in/fikkyardianto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/fikkyardianto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><br>
   
+   [![Fikky's github stats](https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=cobalt&show_icons=true)](https://github.com/Mohanedy98)
   
-  ![github stats](https://github-readme-stats.vercel.app/api?username=gonexwind&show_icons=true)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800)](https://github.com/gonexwind)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=cobalt)](https://github.com/gonexwind)
 </p>
 
 ### Contact with Me
