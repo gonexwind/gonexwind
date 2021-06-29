@@ -33,4 +33,4 @@
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/fikkyardianto)
 
-[<img alt="youtube" src="https://img.shields.io/badge/youtube-%23FF0001.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCKv1DvnWiOXl1GtCFEZKr1Q)
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%23FF0001.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCKv1DvnWiOXl1GtCFEZKr1Q)
