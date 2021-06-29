@@ -26,11 +26,11 @@
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/fikky.ardi/)
 
+<br>
+<br>
+
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gonexwind)
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/fikkyardianto)
-
-<br>
-<br>
 
 [<img alt="youtube" src="https://img.shields.io/badge/youtube-%23FF0001.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCKv1DvnWiOXl1GtCFEZKr1Q)
