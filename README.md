@@ -11,11 +11,11 @@
   <br>
 
   
-   [![Fikky's github stats](https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/gonexwind)
+[![Fikky's github stats](https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/gonexwind)
   
-  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/gonexwind/github-contribution-stats/)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=vue-dark)](https://github.com/gonexwind)
+<!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/gonexwind/github-contribution-stats/)
+   -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=vue-dark)](https://github.com/gonexwind)
 </p>
 
 ### Contact with Me
