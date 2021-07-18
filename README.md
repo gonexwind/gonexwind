@@ -1,4 +1,4 @@
-## Friday ! 👋
+## Sunday ! 👋
 
 <p>
   <br>
