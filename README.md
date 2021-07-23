@@ -1,4 +1,4 @@
-## Happy ! 👋
+## Wokay ! 👋
 
 <p>
   <br>
@@ -6,7 +6,7 @@
     Hello, I'm Fikky! :wink: from Indonesia.<br>
     :sparkles: Favorite Tech: Flutter <br>
     :notebook: I’m playing Mobile & Web Dev <br>
-    :email:	fikkyardianto@gmail.com <br>
+    :email:	fikky.ardi15@gmail.com <br>
   </samp>
   <br>
 
