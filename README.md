@@ -1,14 +1,10 @@
 ## Wokay ! 👋
 
-<p>
-  <br>
-  <samp>
-    Hello, I'm Fikky! :wink: from Indonesia.<br>
-    :sparkles: Favorite Tech: Flutter <br>
-    :notebook: I’m playing Mobile & Web Dev <br>
-    :email:	fikky.ardi15@gmail.com <br>
-  </samp>
-  <br>
+### Mobile and Web Developer
+- Flutter
+- Kotlin
+- Laravel
+- NodeJS
 
   
 [![Fikky's github stats](https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/gonexwind)
