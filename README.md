@@ -1,4 +1,4 @@
-## Freeday ! 👋
+## Sunday ! 👋
 
 ### Mobile and Web Developer
 - Flutter
