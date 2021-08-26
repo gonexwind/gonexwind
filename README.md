@@ -1,4 +1,4 @@
-## Ola ! 👋
+## Ohayou ! 👋
 
 ### Mobile and Web Developer
 - Flutter
