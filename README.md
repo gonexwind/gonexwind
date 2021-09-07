@@ -1,4 +1,4 @@
-## Fight ! 👋
+## Fighting ! 👋
 
 ### Mobile and Web Developer
 - Flutter
