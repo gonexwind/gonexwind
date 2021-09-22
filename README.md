@@ -1,4 +1,4 @@
-## Osh ! 👋
+## Pasti Bisa ! 👋
 
 ### Mobile and Web Developer
 - Flutter
