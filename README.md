@@ -1,8 +1,9 @@
 ## Pasti Bisa ! 👋
 
-### Mobile and Web Developer
+### Playground
 - Flutter
 - Kotlin
+- Laravel
 
 [![Fikky's github stats](https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/gonexwind)
   
