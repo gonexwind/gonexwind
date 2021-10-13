@@ -1,4 +1,4 @@
-## Now or Never ! 👋
+## Osh ! 👋
 
 ### Playground
 - Flutter
