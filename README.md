@@ -1,4 +1,4 @@
-## Osh ! 👋
+## Yok ! 👋
 
 ### Playground
 - Flutter
