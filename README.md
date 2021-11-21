@@ -1,4 +1,4 @@
-## أهلا ! 👋
+## Salam ! 👋
 
 ### Playground
 - Flutter
