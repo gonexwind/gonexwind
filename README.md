@@ -9,10 +9,8 @@ An Tech Enthusiast.
 - Kotlin
 
 <p align="left">
-
-[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/gonexwind)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=vue-dark)](https://github.com/gonexwind)
+  <img height="180em  src="https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true" />
+  <img height="180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=vue-dark" />
 </p>
 
 ### Contact with Me
