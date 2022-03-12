@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-My name's Fikky Ardianto.
+Currently Bank!t 2022 Participants
 
 ### Playground
 - Flutter
