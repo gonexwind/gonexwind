@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-Currently Bank!t 2022 Participants
+Bank!t 2022 Participants
 
 ### Playground
 - Flutter
