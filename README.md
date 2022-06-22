@@ -1,13 +1,15 @@
-## Hello World! 👋
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23EB2754&size=40&center=true&width=600&height=69&lines=Hi+there+👋;Fikky+Ardianto+here!" alt="Typing SVG">
+</p>
 
 Bank!t 2022 Participants
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonexwind&label=Profile%20views&color=0e75b6&style=flat" alt="gonexwind" /> </p>
 
 ### Playground
+- Kotlin
 - Flutter
 - Laravel
-- Kotlin
 
 <p align="left">
   <a href="https://github.com/gonexwind">
