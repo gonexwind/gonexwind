@@ -10,11 +10,11 @@ Bank!t 2022 Participants
 <p align="left">
   <a href="https://github.com/gonexwind">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true" />
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=vue-dark" />
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=vue-dark&count_private=true" />
   </a>  
 </p>
 
-### Contact with Me
+### Connect with Me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fikkyardianto)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/gonexwind/)
