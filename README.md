@@ -9,7 +9,7 @@ Bank!t 2022 Participants
 - Flutter
 - Laravel
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/gonexwind">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true" />
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=vue-dark&count_private=true&hide=html,blade" />
