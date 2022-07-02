@@ -1,15 +1,4 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23EB2754&size=40&center=true&width=600&height=69&lines=Hi+there+👋;Fikky+Ardianto+here!" alt="Typing SVG">
-</p>
-
-Bank!t 2022 Participants
-
-### Playground
-- Kotlin
-- Flutter
-- Laravel
-
-<p align="center">
   <a href="https://github.com/gonexwind">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true" />
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=vue-dark&count_private=true&hide=html,blade" />
