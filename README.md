@@ -1,15 +1,7 @@
 <p align="center">
   <a href="https://github.com/gonexwind">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=gonexwind&count_private=true&theme=vue-dark&show_icons=true" />
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonexwind&layout=compact&theme=vue-dark&count_private=true&hide=html,blade,php,dart,css,javascript,python" />
   </a>  
 </p>
 
-### Connect with Me
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fikkyardianto)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/gonexwind/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gonexwind)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/fikkyardianto)
-
-[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%23FF0001.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCKv1DvnWiOXl1GtCFEZKr1Q)
+ <a href="https://www.linkedin.com/in/fikkyardianto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  <a href="https://fikkynote.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-%23fc4f08.svg?&style=flat-square&logo=blogger&logoColor=white" alt="Blogger"></a>  <a href="https://www.youtube.com/channel/UCKv1DvnWiOXl1GtCFEZKr1Q" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Medium"></a>  <a href="https://www.instagram.com/fikkyardianto" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>  <a href="https://www.twitter.com/gonexwind" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> 
